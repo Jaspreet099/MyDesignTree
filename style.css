@@ -17,7 +17,7 @@ body{
    padding: 0px 300px;
     font-size: 24px;
     font-family: Satoshi;
-    color: white;
+    color: #FAF9F6;
     /* width: 800px; */
     /* text-align: justify; */
 }
@@ -25,7 +25,7 @@ body{
     padding-top: 72px;
     font-size: 18px;
     font-family: Satoshi;
-    color: white;
+    color: #FAF9F6;
 }
 .me a{
     padding: 6px;
@@ -92,7 +92,7 @@ a{
         padding: 0px 30px;
          font-size: 14px;
          font-family: Satoshi;
-         color: white;
+         color: #FAF9F6;
          /* width: 800px; */
          /* text-align: justify; */
      }
@@ -100,7 +100,7 @@ a{
         padding-top: 62px;
         font-size: 14px;
         font-family: Satoshi;
-        color: white;
+        color: #FAF9F6;
     }
     .me a{
         padding: 4px;
