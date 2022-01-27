@@ -27,6 +27,9 @@ body{
     font-family: Satoshi;
     color: white;
 }
+.me a{
+    padding: 6px;
+}
 .logo{
     margin-top: 34px ;
 }
@@ -98,5 +101,8 @@ a{
         font-size: 14px;
         font-family: Satoshi;
         color: white;
+    }
+    .me a{
+        padding: 4px;
     }
 }
