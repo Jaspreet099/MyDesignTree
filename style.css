@@ -71,14 +71,14 @@ a{
     i{
         background-color: #FAF9F6;
         padding-right: 10px;
-        font-size: 18px;
+        font-size: 20px;
     }
     .btn{
         padding-top: 22px;   
     }
     .btn-1{
-        padding: 8px 48px ;
-        font-size: 18px;
+        padding: 12px 64px ;
+        font-size: 20px;
         font-family: Satoshi;
     }
     .btn-1:hover{
